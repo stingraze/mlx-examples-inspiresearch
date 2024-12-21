@@ -1,7 +1,9 @@
-# MLX Examples
+# MLX Examples (Inspire Search Corp. Fork)
 
 This repo contains a variety of standalone examples using the [MLX
 framework](https://github.com/ml-explore/mlx).
+
+New: We have added a new version of encodec.py under encodec enhanced using AI (ChatGPT o1)
 
 The [MNIST](mnist) example is a good starting point to learn how to use MLX.
 
